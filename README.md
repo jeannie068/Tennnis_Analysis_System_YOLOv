@@ -4,8 +4,8 @@
 ## Table of contents  
 
 * [About the Program](#About-the-Program)
-* [Getting Started](#Getting-Started)
-* [How to Use the Program](##how-to-Use-the-Program)
+* [Getting Started](#Getting-Started-Steps-by-Steps)
+* [How to Use the Program](##How-to-Use-the-Program)
 * [Issue](#Issue)
 
 
