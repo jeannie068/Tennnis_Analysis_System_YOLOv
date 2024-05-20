@@ -68,9 +68,6 @@ python3 main.py
 
 ### Result and Test
 程式執行成功後，會在相對路徑： "output_video/output_video.avi" 中看到 avi 影片，其中包含了球員速度、球員擊球球速和球員擊球次數等數據，以及球員、球的物體偵測，以及球員與球運動中的平面位置。  
-
-影片目前結果如圖：  
-![image](output_video/screenshot_now.png)
   
 
 影片最終結果如圖：
@@ -78,6 +75,6 @@ python3 main.py
 
 
 ## Issue
-- Analysis speed, ball shot speed and number of shots
-- Draw analysis result on video
+- Analysis ball bouncing and show on mini-court
+- Ball tracker model from YOLOv5 change to TrackNet Model
 
